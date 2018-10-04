@@ -2953,26 +2953,6 @@
 		"name": "Hacking"
 	}]
 }, {
-	"id": 168,
-	"email": "client.guitared@gmail.com",
-	"first_name": "Thatchapatt",
-	"last_name": "Kesornsri",
-	"twitter": "@gu174r3d",
-	"website": "",
-	"workplace": "",
-	"slug": "thatchapatt-kesornsri",
-	"topics": [{
-		"name": "Machine learning"
-	}, {
-		"name": "Web dev"
-	}, {
-		"name": "Social"
-	}, {
-		"name": "Security"
-	}, {
-		"name": "Reverse engineering"
-	}]
-}, {
 	"id": 169,
 	"email": "lowcalcium@gmail.com",
 	"first_name": "Jirayu",
